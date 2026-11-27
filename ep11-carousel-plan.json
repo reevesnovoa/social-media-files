@@ -1,0 +1,36 @@
+[
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "due": "2026-12-10T16:00:00Z",
+  "text": "A messy spreadsheet to a dashboard with free AI. Clean, Build, Check: every prompt is in these slides, plus plan B if you don't see the Gemini button. Save this for your next report. What do you track in a spreadsheet? Free template: link in bio.",
+  "images": [
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-1.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-2.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-3.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-4.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-5.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-6.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-7.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-8.png"
+  ],
+  "ai": true
+ },
+ {
+  "platform": "facebook",
+  "kind": "carousel",
+  "due": "2026-12-10T16:00:00Z",
+  "text": "A messy spreadsheet to a dashboard with free AI. Clean, Build, Check: every prompt is in these slides, plus plan B if you don't see the Gemini button. Save this for your next report. What do you track in a spreadsheet? Free template: link in bio.",
+  "images": [
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-1.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-2.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-3.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-4.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-5.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-6.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-7.png",
+   "https://reevesnovoa.github.io/social-media-files/ep11/episode-11-carousel-8.png"
+  ],
+  "ai": true
+ }
+]
